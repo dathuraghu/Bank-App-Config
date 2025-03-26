@@ -6,7 +6,7 @@ accounts:
   message: "Accounts Related QA Micro Service"
   contactDetails:
     name: "Raghavendra-Accounts-QA"
-    email: "accounts@qa.com"
+    email: "{cipher}e074166af5a84df1fcc4eedc1aed01c75347478c965963148095cf8789311d0d"
   mobileNumber:
     - (666) 265-3765
     - (666) 734-8371
