@@ -1,0 +1,11 @@
+
+build:
+  version: "1.0"
+accounts:
+  message: "Accounts Related Prod Micro Service"
+  contactDetails:
+    name: "Raghavendra-Accounts-PROD"
+    email: "accounts@prod.com"
+  mobileNumber:
+    - (666) 265-3765
+    - (666) 734-8371

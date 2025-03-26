@@ -1,0 +1,11 @@
+
+build:
+  version: "3.0"
+accounts:
+  message: "Accounts Related Local Micro Service"
+  contactDetails:
+    name: "Raghavendra-Accounts-LOCAL"
+    email: "accounts@local.com"
+  mobileNumber:
+    - (666) 265-3765
+    - (666) 734-8371
