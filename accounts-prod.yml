@@ -2,7 +2,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Accounts Related web Micro Service"
+  message: "Accounts Related prod Micro Service"
   contactDetails:
     name: "Raghavendra-Accounts-PROD"
     email: "accounts@prod.com"
