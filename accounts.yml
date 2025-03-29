@@ -2,7 +2,7 @@
 build:
   version: "3.0"
 accounts:
-  message: "Accounts Related Local Micro Service"
+  message: "Accounts Related docker Micro Service"
   contactDetails:
     name: "Raghavendra-Accounts-LOCAL"
     email: "accounts@local.com"
